@@ -1,0 +1,28 @@
+\begin{table}[htb]
+\centering
+\caption{Desempenho dos algoritmos}
+\label{t:resultadosAlgor}
+\begin{tabular}{|r|cccc|}
+\hline
+ & PSOg & PSOg & PSOg & PSOg \\ \hline
+MAE & 36,117 & 11,304 & 16,985 & 14,359 \\
+RMSE & 458,451 & 108,279 & 142,591 & 120,725 \\
+GEH & 0,28 & 0,201 & 0,295 & 0,301 \\
+pGEH5 & 1 & 1 & 1 & 1 \\
+R2 odm & 0,294 & 0,869 & 0,788 & 0,836 \\
+R2 links & 0,631 & 0,997 & 0,991 & 0,989  \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[htb]
+\centering
+\caption{Desempenho dos algoritmos}
+\label{t:resultadosAlgor}
+\begin{tabular}{|r|cccc|}
+\hline
+ & PSOg & PSOg & PSOg & PSOg \\ \hline
+GEH & 0,28 & 0,201 & 0,295 & 0,301 \\
+pGEH5 & 1 & 1 & 1 & 1 \\
+R2 links & 0,631 & 0,997 & 0,991 & 0,989  \\ \hline
+\end{tabular}
+\end{table}

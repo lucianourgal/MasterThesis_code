@@ -1,0 +1,1 @@
+auxs.bloco
