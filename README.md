@@ -1,3 +1,4 @@
+[![buy_me_a_coffee_badge](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/lucianourgal)
 # MasterThesis_code
  This code was developed between the end of 2016 until July 2018 using Java 1.8.<br>
  It was used for my master thesis in UTFPR. Its mainly about OpenStreetMap map processing, Map matching using taxi trajectory data and origin destination matriz estimation (ODME) solutions using multiple algorithms.
